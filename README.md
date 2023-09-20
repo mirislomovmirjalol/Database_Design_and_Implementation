@@ -9,9 +9,9 @@ As main database used "Mysql Ver 8.1.0 for macos12.6 on arm64"
 ## Getting Started
 
 Go to repo folder and import .sql file to your <b>Existing database</b>
-"""bash
+```bash
 mysql -u username -p -h localhost YOUR_DATA_BASE_NAME < FILE_NAME.sql
-"""
+```
 
 ### Requirements
 
